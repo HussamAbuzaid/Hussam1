@@ -21,8 +21,7 @@ public class Inheritance {
 			{
 				System.out.println("special future of BMW");
 				
-				public static void main(String[] args) {
-					// TODO Auto-generated method stub
+				
 			}
 		}
 
@@ -35,7 +34,8 @@ public class Inheritance {
 		}
 		}
 		
-
+		public static void main(String[] args) {
+			// TODO Auto-generated method stub
 			
 		Porsche p=new Porsche();
 		p.start();

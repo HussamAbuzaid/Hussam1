@@ -5,9 +5,9 @@ public class new_code {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Helly everyone");
+		System.out.println("Hello everyone");
+		System.out.println("I'm alright");
 		
-
 	}
 
 }
